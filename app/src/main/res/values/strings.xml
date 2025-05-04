@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Conquerer Of Olympus</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="gods">Gods</string>
+    <string name="shop">shop</string>
+    <string name="aboutgame">AboutGame</string>
+    <string name="fight">fight</string>
+    <string name="stats">Stats</string>
+    <string name="Shop">Shop</string>
+    <string name="Game_Stats">Game Stats</string>
+    <string name="about_game">About Game</string>
+    <string name="home">Home</string>
+    <string name="quit_fight">Quit Fight</string>
+</resources>
